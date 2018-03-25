@@ -1,3 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
+
+This is a sample text
